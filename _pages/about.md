@@ -36,7 +36,7 @@ My research interest lies in the intersection of NLP and HCI. I aim to empower h
 
 Hao Jiang, Rushan Zhang, Yanning Zhou, **Yumeng Wang**, Hao Chen
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y9MEhjsAAAAJ&citation_for_view=Y9MEhjsAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Github**](https://github.com/DeepDoNet/DoNet) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - In this work, we proposed a De-overlapping Network (DoNet) in a decompose-and-recombined strategy. A Dual-path Region Segmentation Module (DRM) explicitly decomposes the cell clusters into intersection and complement regions, followed by a Semantic Consistency-guided Recombination Module (CRM) for integration. To further introduce the containment relationship of the nucleus in the cytoplasm, we design a Mask-guided Region Proposal Strategy (MRP) that integrates the cell attention maps for inner-cell instance prediction. 
 </div>
 </div>
