@@ -28,6 +28,18 @@ My research interest lies in the intersection of NLP and HCI. I aim to empower h
 - 👀 TBA
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Peer Reviewed</div><img src='images/donet_figure1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CALM: Unleashing the Cross-Lingual Self-Aligning Ability of Language Models]()
+
+**Yumeng Wang**, Zhiyuan Fan, Qingyun Wang, May Fung, Heng Ji
+
+[**Github**](https://github.com/Alexwwwwww/CALM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose a self consistency based multilingual alignment algorithm to bridge the knowledge gap across different languages. We evaluate this method under both zero-shot chain-of-thought and retrieval augmented setting.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/donet_figure1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -38,6 +50,7 @@ Hao Jiang, Rushan Zhang, Yanning Zhou, **Yumeng Wang**, Hao Chen
 
 [**Github**](https://github.com/DeepDoNet/DoNet) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - In this work, we proposed a De-overlapping Network (DoNet) in a decompose-and-recombined strategy. A Dual-path Region Segmentation Module (DRM) explicitly decomposes the cell clusters into intersection and complement regions, followed by a Semantic Consistency-guided Recombination Module (CRM) for integration. To further introduce the containment relationship of the nucleus in the cytoplasm, we design a Mask-guided Region Proposal Strategy (MRP) that integrates the cell attention maps for inner-cell instance prediction. 
+
 </div>
 </div>
 
