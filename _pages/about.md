@@ -28,7 +28,7 @@ My research interest lies in the intersection of NLP and HCI. I aim to empower h
 - 👀 TBA
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Peer Reviewed</div><img src='images/donet_figure1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Peer Reviewed</div><img src='images/CALM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CALM: Unleashing the Cross-Lingual Self-Aligning Ability of Language Models]()
