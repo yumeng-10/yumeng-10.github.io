@@ -62,7 +62,7 @@ Hao Jiang, Rushan Zhang, Yanning Zhou, **Yumeng Wang**, Hao Chen
 - HKUST Study Abroad Scholarship
 # 📖 Educations
 - Hong Kong University of Science and Technology, major in COMP + DSCT (BEng). 
-- University of Illinois Urbana-Champaign, Grainger School of Engineering. 
+- University of Illinois Urbana-Champaign, Grainger School of Engineering (Exchange). 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
