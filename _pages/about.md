@@ -56,13 +56,13 @@ Hao Jiang, Rushan Zhang, Yanning Zhou, **Yumeng Wang**, Hao Chen
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
+# 🎖 Honors and Awards
+- HKUST Engineering Dean's List
+- HKUST Congtinuing Undergraduate Scholarship
+- HKUST Study Abroad Scholarship
 # 📖 Educations
-- *2020.09 - present*, the Hong Kong University of Science and Technology, Bachelor of Engineering. 
-- *2022.08 - 2022.12*, University of Illinois Urbana-Champaign, Grainger School of Engineering. 
+- Hong Kong University of Science and Technology, major in COMP + DSCT (BEng). 
+- University of Illinois Urbana-Champaign, Grainger School of Engineering. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
