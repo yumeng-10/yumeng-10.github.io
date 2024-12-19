@@ -35,7 +35,7 @@ My research interest lies in the intersection of NLP and HCI. I aim to empower h
 
 **Yumeng Wang**, Zhiyuan Fan, Qingyun Wang, May Fung, Heng Ji
 
-[**Github**](https://github.com/Alexwwwwww/CALM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Github**](https://github.com/yumeng-10/CALM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose a self consistency based multilingual alignment algorithm to bridge the knowledge gap across different languages. We evaluate this method under both zero-shot chain-of-thought and retrieval augmented setting.
 
 </div>
