@@ -28,6 +28,18 @@ My research interest lies in the intersection of NLP and HCI. I aim to empower h
 - 🔥 Our paper *CoKnowledge: Supporting Assimilation of Time-synced Collective Knowledge in Online Science Videos* is accepted by CHI 2025! A big shout out to Prof. Ma, my amazing mentor Yuanhao and my coolest collaborators!
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Peer Reviewed</div><img src='images/teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CoKnowledge: Supporting Assimilation of Time-synced Collective Knowledge in Online Science Videos]()
+
+Yuanhao Zhang, **Yumeng Wang**, Xiyuan Wang, Changyang He, Chenliang Huang, Xiaojuan Ma
+
+- We propose a web demo to develop CoKnowledge – a tool incorporating a video abstract, knowledge graphs, and supplementary danmaku features to support viewers’ assimilation of collective knowledge in science videos.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Peer Reviewed</div><img src='images/CALM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
