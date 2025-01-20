@@ -28,7 +28,7 @@ My research interest lies in the intersection of NLP and HCI. I aim to empower h
 - 🔥 Our paper *CoKnowledge: Supporting Assimilation of Time-synced Collective Knowledge in Online Science Videos* is accepted by CHI 2025! A big shout out to Prof. Ma, my amazing mentor Yuanhao and my coolest collaborators!
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Peer Reviewed</div><img src='images/teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CoKnowledge: Supporting Assimilation of Time-synced Collective Knowledge in Online Science Videos]()
