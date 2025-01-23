@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final year undergraduate at HKUST, with a double major in Computer Science and Data Science and Technology, and a minor in Mathematics. I am currently an intern at UIUC [Blender Lab](https://blender.cs.illinois.edu/) supervised by Prof [May Fung](https://yrf1.github.io/) and Prof [Heng Ji](https://blender.cs.illinois.edu/hengji.html). Previously, I was also fortunate to be supervised by Prof [Yangqiu Song](https://www.cse.ust.hk/~yqsong/), Prof [Xiaojuan Ma](https://www.cse.ust.hk/~mxj/) and Prof [Hao Chen](https://cse.hkust.edu.hk/~jhc/).
+I am a final year undergraduate at HKUST, with a double major in Computer Science and Data Science and Technology, and a minor in Mathematics. I am currently an intern at UIUC [Blender Lab](https://blender.cs.illinois.edu/) supervised by Prof. [May Fung](https://yrf1.github.io/) and Prof. [Heng Ji](https://blender.cs.illinois.edu/hengji.html). Previously, I was also fortunate to be supervised by Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/), Prof. [Xiaojuan Ma](https://www.cse.ust.hk/~mxj/) and Prof. [Hao Chen](https://cse.hkust.edu.hk/~jhc/).
 
 My research interest lies in the intersection of NLP and HCI. I aim to empower human-centered NLP by mitigating LLM bias, leveraging scalable alignment. I also want to understand the socio-cultural dynamics of LLM by incorporating methods and theories from HCI.
 
@@ -25,7 +25,8 @@ My research interest lies in the intersection of NLP and HCI. I aim to empower h
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
-- 🔥 Our paper *CoKnowledge: Supporting Assimilation of Time-synced Collective Knowledge in Online Science Videos* is accepted by CHI 2025! A big shout out to Prof. Ma, my amazing mentor Yuanhao and my coolest collaborators!
+- 🎉 Our paper *CoKnowledge: Supporting Assimilation of Time-synced Collective Knowledge in Online Science Videos* is accepted by CHI 2025! Thanks to Prof. Ma, my amazing mentor Yuanhao and my coolest collaborators!
+- 🎉 My first-authored paper *CALM: Unleashing the Cross-Lingual Self-Aligning Ability of Language Model Question Answering* is accepted by NAACL 2025! Big shout out to my mentors Heng, Yi, Qingyun and Zhiyuan!
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/teaser.png' alt="sym" width="100%"></div></div>
@@ -40,10 +41,10 @@ Yuanhao Zhang, **Yumeng Wang**, Xiyuan Wang, Changyang He, Chenliang Huang, Xiao
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Peer Reviewed</div><img src='images/CALM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/CALM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CALM: Unleashing the Cross-Lingual Self-Aligning Ability of Language Models]()
+[CALM: Unleashing the Cross-Lingual Self-Aligning Ability of Language Model Question Answering]()
 
 **Yumeng Wang**, Zhiyuan Fan, Qingyun Wang, May Fung, Heng Ji
 
