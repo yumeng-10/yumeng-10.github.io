@@ -25,7 +25,7 @@ My research interest lies in the intersection of NLP and HCI. I aim to empower h
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
-- 🎉 Our paper *CoKnowledge: Supporting Assimilation of Time-synced Collective Knowledge in Online Science Videos* is accepted by CHI 2025! Thanks to Prof. Ma, my amazing mentor Yuanhao and my coolest collaborators!
+- 🎉 Our paper *CoKnowledge: Supporting Assimilation of Time-synced Collective Knowledge in Online Science Videos* is accepted by CHI 2025! Thanks to my amazing mentors Prof. Ma, Yuanhao and my coolest collaborators!
 - 🎉 My first-authored paper *CALM: Unleashing the Cross-Lingual Self-Aligning Ability of Language Model Question Answering* is accepted by NAACL 2025! Big shout out to my mentors Heng, Yi, Qingyun and Zhiyuan!
 
 # 📝 Publications 
