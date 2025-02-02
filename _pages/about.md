@@ -29,7 +29,7 @@ My research interest lies in the intersection of NLP and HCI. I aim to empower h
 - 🎉 My first-authored paper *CALM: Unleashing the Cross-Lingual Self-Aligning Ability of Language Model Question Answering* is accepted by NAACL 2025! Big shout out to my mentors Heng, Yi, Qingyun and Zhiyuan!
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/teaser.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CoKnowledge: Supporting Assimilation of Time-synced Collective Knowledge in Online Science Videos]()
@@ -39,9 +39,9 @@ Yuanhao Zhang, **Yumeng Wang**, Xiyuan Wang, Changyang He, Chenliang Huang, Xiao
 - We propose a web demo to develop CoKnowledge – a tool incorporating a video abstract, knowledge graphs, and supplementary danmaku features to support viewers’ assimilation of collective knowledge in science videos.
 
 </div>
-</div>
+</div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/CALM.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/CALM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CALM: Unleashing the Cross-Lingual Self-Aligning Ability of Language Model Question Answering]()
@@ -52,7 +52,7 @@ Yuanhao Zhang, **Yumeng Wang**, Xiyuan Wang, Changyang He, Chenliang Huang, Xiao
 - We propose a self consistency based multilingual alignment algorithm to bridge the knowledge gap across different languages. We evaluate this method under both zero-shot chain-of-thought and retrieval augmented setting.
 
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/donet_figure1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
