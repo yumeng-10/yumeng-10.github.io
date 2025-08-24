@@ -42,6 +42,22 @@ My research interest lies in the intersection of NLP and HCI. I aim to empower h
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/v2r.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Unveiling the Lack of LVLM Robustness to Fundamental Visual Variations: Why and Path Forward
+](https://arxiv.org/abs/2507.20187)
+
+Zhiyuan Fan\*, **Yumeng Wang\***, Sandeep Polisetty, May Fung
+
+- Large Vision Language Models (LVLMs) excel in various vision-language tasks. Yet, their robustness to visual variations in position, scale, orientation, and context that objects in natural scenes inevitably exhibit due to changes in viewpoint and environment remains largely underexplored. To bridge this gap, we introduce V2R-Bench, a comprehensive benchmark framework for evaluating Visual Variation Robustness of LVLMs, which encompasses automated evaluation dataset generation and principled metrics for thorough robustness assessment.
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
