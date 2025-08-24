@@ -30,7 +30,7 @@ My research interest lies in the intersection of NLP and HCI. I aim to empower h
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/multirole-r1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Diversity-Enhanced Reasoning for Subjective Questions](https://arxiv.org/abs/2507.20187)
