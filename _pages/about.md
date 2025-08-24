@@ -43,7 +43,7 @@ My research interest lies in the intersection of NLP and HCI. I aim to empower h
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/v2r.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/v2r.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Unveiling the Lack of LVLM Robustness to Fundamental Visual Variations: Why and Path Forward
