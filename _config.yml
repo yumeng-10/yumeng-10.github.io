@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yumeng Wang"
-description              : "Final year undergraduate student at HKUST CSE"
+description              : "CS PhD student at UIUC"
 repository               : "yumeng-10/yumeng-10.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yumeng Wang"
   avatar           : "images/profile_google_scholar.jpg"
-  bio              : "HKUST"
-  location         : "Hong Kong SAR"
+  bio              : "UIUC"
+  location         : "Champaign, IL"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Y9MEhjsAAAAJ"
-  email            : "ywanglu@connect.ust.hk.com"
+  email            : "yumeng10@illinois.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

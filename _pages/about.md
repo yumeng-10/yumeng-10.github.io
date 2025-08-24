@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final year undergraduate at HKUST, with a double major in Computer Science and Data Science and Technology, and a minor in Mathematics. I am currently an intern at UIUC [Blender Lab](https://blender.cs.illinois.edu/) supervised by Prof. [May Fung](https://yrf1.github.io/) and Prof. [Heng Ji](https://blender.cs.illinois.edu/hengji.html). Previously, I was also fortunate to be supervised by Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/), Prof. [Xiaojuan Ma](https://www.cse.ust.hk/~mxj/) and Prof. [Hao Chen](https://cse.hkust.edu.hk/~jhc/).
+I am a first-year PhD student at UIUC CS, supervised by Prof. [Ge Wang](https://tiffanygewang.com/). Previously, I was fortunate to work with Prof. [May Fung](https://yrf1.github.io/), Prof. [Heng Ji](https://blender.cs.illinois.edu/hengji.html), Prof. [Xiaojuan Ma](https://www.cse.ust.hk/~mxj/), Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/), and Prof. [Hao Chen](https://cse.hkust.edu.hk/~jhc/).
 
 My research interest lies in the intersection of NLP and HCI. I aim to empower human-centered NLP by mitigating LLM bias, leveraging scalable alignment. I also want to understand the socio-cultural dynamics of LLM by incorporating methods and theories from HCI.
 
@@ -28,11 +28,24 @@ My research interest lies in the intersection of NLP and HCI. I aim to empower h
 - 🎉 Our paper *CoKnowledge: Supporting Assimilation of Time-synced Collective Knowledge in Online Science Videos* is accepted by CHI 2025! Thanks to my amazing mentors Prof. Ma, Yuanhao and my coolest collaborators!
 - 🎉 My first-authored paper *CALM: Unleashing the Cross-Lingual Self-Aligning Ability of Language Model Question Answering* is accepted by NAACL 2025! Big shout out to my mentors Heng, Yi, Qingyun and Zhiyuan!
 
-# 📝 Publications 
+# 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Diversity-Enhanced Reasoning for Subjective Questions](https://arxiv.org/abs/2507.20187)
+
+**Yumeng Wang\***, Zhiyuan Fan\*, Jiayu Liu\*, May Fung
+
+- We propose **MultiRole-R1**, a diversity-enhanced framework with multiple role perspectives, to improve the accuracy and diversity in subjective reasoning tasks. MultiRole-R1 features an unsupervised data construction pipeline that generates reasoning chains that incorporate diverse role perspectives. We further employ reinforcement learning via Group Relative Policy Optimization (GRPO) with reward shaping, by taking diversity as a reward signal in addition to the verifiable reward.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CoKnowledge: Supporting Assimilation of Time-synced Collective Knowledge in Online Science Videos]()
+[CoKnowledge: Supporting Assimilation of Time-synced Collective Knowledge in Online Science Videos](https://arxiv.org/abs/2502.03767)
 
 Yuanhao Zhang, **Yumeng Wang**, Xiyuan Wang, Changyang He, Chenliang Huang, Xiaojuan Ma
 
@@ -59,7 +72,7 @@ Yuanhao Zhang, **Yumeng Wang**, Xiyuan Wang, Changyang He, Chenliang Huang, Xiao
 
 **DoNet: Deep De-Overlapping Network for Cytology Instance Segmentation**
 
-Hao Jiang, Rushan Zhang, Yanning Zhou, **Yumeng Wang**, Hao Chen
+Hao Jiang\*, Rushan Zhang\*, Yanning Zhou, **Yumeng Wang**, Hao Chen
 
 [**Google Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=72yDElgAAAAJ&citation_for_view=72yDElgAAAAJ:u5HHmVD_uO8C&inst=7707536466893209563) |
 [**Paper**](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_DoNet_Deep_De-Overlapping_Network_for_Cytology_Instance_Segmentation_CVPR_2023_paper.pdf) |
