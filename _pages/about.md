@@ -19,18 +19,18 @@ redirect_from:
 
 I am a first-year PhD student at UIUC CS, supervised by Prof. [Ge Wang](https://tiffanygewang.com/). Previously, I was fortunate to work with Prof. [May Fung](https://yrf1.github.io/), Prof. [Heng Ji](https://blender.cs.illinois.edu/hengji.html), Prof. [Xiaojuan Ma](https://www.cse.ust.hk/~mxj/), Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/), and Prof. [Hao Chen](https://cse.hkust.edu.hk/~jhc/).
 
-My research interest lies in the intersection of NLP and HCI. I aim to empower human-centered NLP by mitigating LLM bias, leveraging scalable alignment. I also want to understand the socio-cultural dynamics of LLM by incorporating methods and theories from HCI.
+My research interest lies in the intersection of NLP and HCI. I aim to empower human-centered NLP by mitigating LLM bias and leveraging scalable alignment. I also want to understand the socio-cultural dynamics of LLM by incorporating mixed-methods approach from HCI.
 
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
-- 🎉 Our paper *CoKnowledge: Supporting Assimilation of Time-synced Collective Knowledge in Online Science Videos* is accepted by CHI 2025! Thanks to my amazing mentors Prof. Ma, Yuanhao and my coolest collaborators!
-- 🎉 My first-authored paper *CALM: Unleashing the Cross-Lingual Self-Aligning Ability of Language Model Question Answering* is accepted by NAACL 2025! Big shout out to my mentors Heng, Yi, Qingyun and Zhiyuan!
+- 🎉 Our paper *Diversity Enhanced Reasoning in Subjective Questions* is accepted by ICLR 2025! Thanks to my amazing mentors Zhiyuan, Jay and Prof May Fung and my collaborator Jiayu!
+
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/multirole-r1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/multirole-r1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Diversity-Enhanced Reasoning for Subjective Questions](https://arxiv.org/abs/2507.20187)
