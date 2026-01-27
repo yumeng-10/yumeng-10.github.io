@@ -25,8 +25,8 @@ My research interest lies in the intersection of NLP and HCI. I aim to empower h
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
-- 🎉 Our paper *Diversity Enhanced Reasoning in Subjective Questions* is accepted by ICLR 2025! Thanks to my amazing mentors Zhiyuan, Jay and Prof May Fung and my collaborator Jiayu!
-
+- 🎉 2026/01/26: Our paper *Diversity Enhanced Reasoning in Subjective Questions* is accepted by ICLR 2026! Thanks to my amazing mentors Zhiyuan, Jay and Prof May Fung and my collaborator Jiayu!
+- 🎉 2025/08/21: I start my PhD program in UIUC Siebel School of Computer Science!
 
 # 📝 Publications
 
