@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year PhD student at UIUC CS, supervised by Prof. [Ge Wang](https://tiffanygewang.com/). Previously, I was fortunate to work with Prof. [May Fung](https://yrf1.github.io/), Prof. [Heng Ji](https://blender.cs.illinois.edu/hengji.html), Prof. [Xiaojuan Ma](https://www.cse.ust.hk/~mxj/), Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/), and Prof. [Hao Chen](https://cse.hkust.edu.hk/~jhc/).
+I am a first-year PhD student at UIUC CS, supervised by Prof. [Ge Wang](https://tiffanygewang.com/). Before UIUC, I obtained my Bachelor of Engineering from HKUST, with double major in computer science and data science. Previously, I was fortunate to work with Prof. [May Fung](https://yrf1.github.io/), Prof. [Heng Ji](https://blender.cs.illinois.edu/hengji.html), Prof. [Xiaojuan Ma](https://www.cse.ust.hk/~mxj/), Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/), and Prof. [Hao Chen](https://cse.hkust.edu.hk/~jhc/).
 
 My research interest lies in the intersection of NLP and HCI. I aim to empower human-centered NLP by mitigating LLM bias and leveraging scalable alignment. I also want to understand the socio-cultural dynamics of LLM by incorporating mixed-methods approach from HCI.
 
@@ -102,6 +102,7 @@ Hao Jiang\*, Rushan Zhang\*, Yanning Zhou, **Yumeng Wang**, Hao Chen
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- First-Class Honor in Bachelor of Engineering (HKUST)
 - HKUST Engineering Dean's List
 - HKUST Congtinuing Undergraduate Scholarship
 - HKUST Study Abroad Scholarship
