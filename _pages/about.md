@@ -115,4 +115,19 @@ Hao Jiang\*, Rushan Zhang\*, Yanning Zhou, **Yumeng Wang**, Hao Chen
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2023.01 - 2023.08*, [WeShare Tech Limited](https://www.wesharetechnology.com/), HKUST.
+<!-- - *2023.01 - 2023.08*, [WeShare Tech Limited](https://www.wesharetechnology.com/), HKUST. -->
+<table style="border-collapse:collapse; border:none; width:100%;">
+  <tr style="border:none;">
+    <td style="width:180px; vertical-align:top; border:none; padding:8px;">
+      <img src="images/amazon.jpeg" width="150">
+    </td>
+    <td style="vertical-align:top; border:none; padding-left:16px; width:50%;">
+      <strong>Amazon</strong><br/>
+      Applied Scientist Intern
+    </td>
+    <td style="vertical-align:top; text-align:right; border:none; width:30%;">
+      <em>Seattle, WA, USA</em><br/>
+      May 2026 – Aug 2026
+    </td>
+  </tr>
+</table>
