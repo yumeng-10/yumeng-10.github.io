@@ -118,8 +118,8 @@ Hao Jiang\*, Rushan Zhang\*, Yanning Zhou, **Yumeng Wang**, Hao Chen
 <!-- - *2023.01 - 2023.08*, [WeShare Tech Limited](https://www.wesharetechnology.com/), HKUST. -->
 <table style="border-collapse:collapse; border:none; width:100%;">
   <tr style="border:none;">
-    <td style="width:180px; vertical-align:top; border:none; padding:8px;">
-      <img src="images/amazon.jpeg" width="150">
+    <td style="width:90px; vertical-align:top; border:none; padding:8px;">
+      <img src="images/amazon.jpeg" width="75">
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:50%;">
       <strong>Amazon</strong><br/>
